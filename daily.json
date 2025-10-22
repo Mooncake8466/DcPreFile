@@ -7,7 +7,10 @@
     "Eating Something",
     "Walking Around",
     "Coding Alone",
-    "Sleeping"
+    "Sleeping",
+    "Working",
+    "Crazy?",
+    "Taking a shower"
   ],
   "daily_state": [
     "TW Server: Mooncake#6402",
@@ -16,7 +19,10 @@
     "I don't know, I'm just hungry.",
     "Just wanna walking around.",
     "Coding something that I like.",
-    "zzZZZ... zzZZ... zZZzz... zz..."
+    "zzZZZ... zzZZ... zZZzz... zz...",
+    "Need money so I need to work.",
+    "I was crazy, They locked me in-",
+    "It might take around 30 mins."
   ],
   "daily_images": [
     "https://media1.tenor.com/m/82B-Hd5izO0AAAAd/%E3%82%B1%E3%83%AB%E3%82%B7%E3%83%BC-%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84.gif",
@@ -24,6 +30,7 @@
     "https://media1.tenor.com/m/RLhKqwF6eiUAAAAC/ejyafjalla-anime.gif",
     "https://media1.tenor.com/m/xhQOa1Po2h8AAAAC/mudrock-spin.gif",
     "https://media1.tenor.com/m/y9ciHX2nbGAAAAAd/arknights-anime.gif",
-    "https://images-ext-1.discordapp.net/external/W-TawCZo1jMP1BstKtc_X-2xYxk2d8-9YDQ0P9lYby8/https/media.tenor.com/1aFEg73ufUcAAAPo/arknights-skadi.mp4"
+    "https://images-ext-1.discordapp.net/external/W-TawCZo1jMP1BstKtc_X-2xYxk2d8-9YDQ0P9lYby8/https/media.tenor.com/1aFEg73ufUcAAAPo/arknights-skadi.mp4",
+    "https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif"
   ]
 }
