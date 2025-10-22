@@ -1,0 +1,19 @@
+{
+  "user": "Mooncake",
+  "button_name_1": "",
+  "button_url_1": "",
+  "button_name_2": "",
+  "button_url_2": "",
+  "secret_detail": "✨ Secret Status ✨",
+  "secret_url": "https://raw.githubusercontent.com/Mooncake8466/DcPreFile/refs/heads/main/secret.md",
+  "swap_time": "60",
+  "daily_details": [
+    "Playing Arknights",
+  ],
+  "daily_state": [
+    "TW Server: Mooncake#6402",
+  ],
+  "daily_images": [
+    "https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif"
+  ]
+}
