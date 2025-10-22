@@ -1,5 +1,19 @@
 {
   "today": "Basic",
-  "daily_selection" : [],
-  "daily_images": []
+  "daily_words" : [
+
+  ],
+  "daily_details": [
+
+  ],
+  "daily_state": [
+
+  ],
+  "daily_images": [
+    "https://media1.tenor.com/m/82B-Hd5izO0AAAAd/%E3%82%B1%E3%83%AB%E3%82%B7%E3%83%BC-%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84.gif",
+    "https://media1.tenor.com/m/6QvGtPcsVrkAAAAC/arknights-skadi.gif",
+    "https://media1.tenor.com/m/RLhKqwF6eiUAAAAC/ejyafjalla-anime.gif",
+    "https://media1.tenor.com/m/xhQOa1Po2h8AAAAC/mudrock-spin.gif",
+    "https://media1.tenor.com/m/y9ciHX2nbGAAAAAd/arknights-anime.gif"
+  ]
 }
